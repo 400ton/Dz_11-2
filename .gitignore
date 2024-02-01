@@ -1,0 +1,17 @@
+venv/
+.idea/
+__pycache__/
+*.pyc
+*.log
+site-packages/
+Lib/
+DLLs/
+Binary Skeletons/
+python-skeletons/
+Python310/
+site-packages/
+/bin
+.tmp
+debug.log
+
+
